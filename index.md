@@ -1,8 +1,8 @@
-## Bienvenidos a mi sitio
+## RESUMEN
 
-You can use the [editor on GitHub](https://github.com/aclaverom/aclaverom.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ingeniera técnica industrial con más de 10 años de experiencia en el
+sector industrial. Con gran interés en nuevos productos y
+tecnologías. En busca de nuevos retos profesionales.
 
 ### Markdown
 
